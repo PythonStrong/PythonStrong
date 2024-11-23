@@ -78,12 +78,12 @@
             <br>Unity
         </td>
         <td align="center" width="96">
-            <img src="[https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
             <br>Github
         </td>
         <td align="center" width="96">
             <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="48" height="48" alt="Zustand" />
-            <br>Zustand
+            <br>Material Ui
         </td>
     </tr>
 </table>
