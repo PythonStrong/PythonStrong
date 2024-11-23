@@ -32,7 +32,7 @@
     </tr>
     <tr>
         <td align="center"  width="96">
-            <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/> </a> 
+            <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
             <br>React js
         </td>
         <td align="center" width="96">
@@ -45,7 +45,7 @@
         </td>
         <td align="center" width="96">
             <a href="#ts">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png](https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
             </a>
             <br>TypeScript
         </td>
@@ -78,7 +78,7 @@
             <br>Unity
         </td>
         <td align="center" width="96">
-            <img src="[https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png](https://techstack-generator.vercel.app/github-icon.svg)" width="48" height="48" alt="GitHub" />
+            <img src="[https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
             <br>Github
         </td>
         <td align="center" width="96">
