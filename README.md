@@ -82,7 +82,7 @@
             <br>Github
         </td>
         <td align="center" width="96">
-            <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="48" height="48" alt="Zustand" />
+            <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560(https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6aecc665-9f30-4dc7-bacc-880d8e66c7bb.png)" width="48" height="48" alt="Zustand" />
             <br>Material Ui
         </td>
     </tr>
@@ -104,10 +104,10 @@
 
 <p align="center">
     
-<a href="https://github.com/itkncoder/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=itkncoder">
+<a href="https://github.com/EternityEgo/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=EternityEgo">
 </a>
     <a href="https://github.com/itkncoder?tab=followers">
-        <img src="https://img.shields.io/github/followers/itkncoder?label=Followers&style=social" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/followers/EternityEgo?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
