@@ -1,4 +1,4 @@
-![kncoder](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Khatamov+Nuriddin;I'm+KNCoder!)
+![EternityEgo](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Abdullayev+Lazizbek;I'm+EternityEgo!)
 
 
 ## 🎓 I am a Web Developer |  
@@ -32,7 +32,7 @@
     </tr>
     <tr>
         <td align="center"  width="96">
-            <a href="https://reactjs.org/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://techstack-generator.vercel.app/react-icon.svg)" alt="react" width="40" height="40"/> </a> 
+            <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/> </a> 
             <br>React js
         </td>
         <td align="center" width="96">
@@ -45,7 +45,7 @@
         </td>
         <td align="center" width="96">
             <a href="#ts">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png](https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
             </a>
             <br>TypeScript
         </td>
