@@ -82,7 +82,7 @@
             <br>Github
         </td>
         <td align="center" width="96">
-            <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560(https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6aecc665-9f30-4dc7-bacc-880d8e66c7bb.png)" width="48" height="48" alt="Zustand" />
+            <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6aecc665-9f30-4dc7-bacc-880d8e66c7bb.png" width="48" height="48" alt="Zustand" />
             <br>Material Ui
         </td>
     </tr>
