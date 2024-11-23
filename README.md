@@ -52,38 +52,38 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="48" height="48" alt="firebase" />
-            <br>Firebase
-        </td>
-        <td align="center" width="96">
             <img src="https://files.raycast.com/7oaucgd6fh2sjztkc0q999qoyfy4" width="48" height="48" alt="ChakraUI" />
             <br>ChakraUI
         </td>
-        <td align="center" width="96">
-            <img src="https://img.icons8.com/color/512/redux.png" width="48" height="48" alt="Redux" />
-            <br>Redux
+         <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+            <br>Github
         </td>
         <td align="center" width="96">
             <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="48" height="48" alt="Figma" />
             <br>Figma
         </td>
+        <td align="center" width="96">
+            <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6aecc665-9f30-4dc7-bacc-880d8e66c7bb.png" width="48" height="48" alt="Zustand" />
+            <br>Material Ui
+        </td>
     </tr>
     <tr>
+        <td align="center" width="96">
+            <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="48" height="48" alt="firebase" />
+            <br>Firebase
+        </td>
         <td align="center" width="96">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React-native" />
             <br>React-native
         </td>
         <td align="center" width="96">
-            <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="48" height="48" alt="Unity" />
-            <br>Unity
+            <img src="https://delta-dev-software.fr/wp-content/uploads/2024/02/nodejs.jpg" width="48" height="48" alt="React-native" />
+            <br>Node Js
         </td>
         <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-            <br>Github
-        </td>
-        <td align="center" width="96">
-            <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6aecc665-9f30-4dc7-bacc-880d8e66c7bb.png" width="48" height="48" alt="Zustand" />
-            <br>Material Ui
+            <img src="https://www.manektech.com/storage/developer/1646733543.webp" width="48" height="48" alt="React-native" />
+            <br>Express Js
         </td>
     </tr>
 </table>
